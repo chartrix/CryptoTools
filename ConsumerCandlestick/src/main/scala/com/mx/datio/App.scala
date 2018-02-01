@@ -4,7 +4,7 @@ object App {
   
   def main(args : Array[String]) {
     val nombre = "Eder"
-    println( "Hola Clase git soy: " + nombre )
+    println( s"Hola Clase git saludos de $nombre" )
   }
 
 }
