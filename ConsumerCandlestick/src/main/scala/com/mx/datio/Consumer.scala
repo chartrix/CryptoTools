@@ -3,5 +3,5 @@ package com.mx.datio
 class Consumer(url: String, speed: Int){
     var urlData:    String = url
     var speedData:  Int    = speed
-    override def toString(): String = "XXXXXXXXXXXXXXXXXXXXXXX(" + urlData + "," + speedData + ")XXXXXXXXXXXXXXXXXXXXXXX"
+    override def toString(): String = "ooooooooooooooooooooo(" + urlData + "," + speedData + ")<ooooooooooooooooooooo"
 }
