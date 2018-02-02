@@ -5,7 +5,7 @@
   <version>0.1-SNAPSHOT</version>
   <name>${project.artifactId}</name>
   <description>Si mi super scala project</description>
-  <inceptionYear>2015</inceptionYear>
+  <inceptionYear>2018</inceptionYear>
   <licenses>
     <license>
       <name>My License</name>
