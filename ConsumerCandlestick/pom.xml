@@ -4,7 +4,7 @@
   <artifactId>ConsumerCandlestick</artifactId>
   <version>0.1-SNAPSHOT</version>
   <name>${project.artifactId}</name>
-  <description>My wonderfull scala app</description>
+  <description>Si mi super scala project</description>
   <inceptionYear>2015</inceptionYear>
   <licenses>
     <license>
